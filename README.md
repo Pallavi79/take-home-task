@@ -5,6 +5,8 @@ Now install the packages
 ```
 npm i
 
+```
+
 Run the project:
 
 Use the given command to start the project.
